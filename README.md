@@ -1,2 +1,2 @@
 # ExerciciosUnipaulistana
-Exercícios feitos na sala de aula.
+Exercíci os feitos em sala de aula  
