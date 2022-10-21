@@ -1,2 +1,2 @@
 # ExerciciosUnipaulistana
-Exercícios codados na sala de aula.
+Exercícios feitos na sala de aula.
